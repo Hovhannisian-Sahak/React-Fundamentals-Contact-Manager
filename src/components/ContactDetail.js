@@ -11,7 +11,7 @@ const ContactDetail = () => {
     <div>
       <div className="m-4">
         <Button success onClick={() => navigate("/contactList")}>
-          Back to contactList
+          Back to contacts
         </Button>
       </div>
 
